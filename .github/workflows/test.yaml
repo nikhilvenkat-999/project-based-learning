@@ -6,4 +6,4 @@ on:
       - main
 jobs:
   call-date:
-    uses: nikhilvenkat-999/github-action-prac/blob/main/.github/workflows/reusable.yaml@main
+    uses: nikhilvenkat-999/github-action-prac/.github/workflows/reusable.yaml@main
