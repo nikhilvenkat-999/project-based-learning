@@ -1,5 +1,4 @@
 name: calling date workflow from another repo
-
 on:
   push:
     branches:
