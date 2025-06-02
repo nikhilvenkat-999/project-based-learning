@@ -2,7 +2,7 @@ name: calling date workflow from another repo
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   call-date:
     uses: nikhilvenkat-999/github-action-prac/.github/workflows/reusable.yaml@main
